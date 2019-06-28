@@ -1,4 +1,4 @@
-
+//Console Control Instructions
 class Some{
 public static void main(String args[])
 {
